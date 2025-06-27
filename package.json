@@ -1,0 +1,33 @@
+{
+  "name": "mf10493_andres_diaz",
+  "version": "1.0.0",
+  "description": "Juego de memoria",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anondiaz/memory-game_EF_MF10493.git"
+  },
+  "keywords": [
+    "Juego",
+    "de",
+    "Memoria",
+    "Memory",
+    "Game",
+    "Juego",
+    "Game",
+    "Memoria",
+    "Memory"
+  ],
+  "author": "Andres Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anondiaz/memory-game_EF_MF10493/issues"
+  },
+  "homepage": "https://github.com/anondiaz/memory-game_EF_MF10493#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
