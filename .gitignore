@@ -27,4 +27,5 @@
 
 ### Proyecto ###
 .env
+# .dockerignore
 node_modules
